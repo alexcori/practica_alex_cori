@@ -40,5 +40,9 @@ Usualmente se trata de un disposit
 
 ## PROTOCOLO HTTP
 
+[VER AQUI]
+
 (https://images.app.goo.gl/1X23SaiQh9kaRJFQ7)
+
+
 
